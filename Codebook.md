@@ -29,8 +29,8 @@ Features are accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-
 
 Fast Fourier Transform (FFT) was applied to some signals to produce frequency-domain data.
 
-'t' prefix indicates time domain (seconds)
-'f' prefix indicates frequency domain (Hz)
+ * 't' prefix indicates time domain (seconds)
+ * 'f' prefix indicates frequency domain (Hz)
 
 The following features were captured. For more details on specific features, see the features_info.txt file in the raw data archive.
 
