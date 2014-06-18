@@ -32,6 +32,8 @@ Fast Fourier Transform (FFT) was applied to some signals to produce frequency-do
  * 't' prefix indicates time domain (seconds)
  * 'f' prefix indicates frequency domain (Hz)
 
+Data is summarized as follows: mean of each feature is retained, aggregated by activity and subject. Thus, a given data point is the average measure of that feature for the given subject and activity.
+
 The following features were captured. For more details on specific features, see the features_info.txt file in the raw data archive.
 
  * tBodyAcc.mean...X
